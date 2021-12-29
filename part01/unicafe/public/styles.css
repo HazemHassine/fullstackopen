@@ -1,0 +1,18 @@
+body {
+    background: #97C8B8;
+}
+h1 {
+    text-align: center;
+}
+button {
+    transform: translateX(42vw);
+    padding: 10px;
+    background: white;
+    border: 2px solid gray;
+    border-radius: 9px;
+    text-decoration: underline;
+    font-size: 30px;
+}
+#statistics {
+    transform: translateX(42vw);
+}
